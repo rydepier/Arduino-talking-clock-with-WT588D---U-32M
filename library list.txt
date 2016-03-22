@@ -1,0 +1,259 @@
+Talking Measurements:
+
+Numbers:
+
+to speak                           decimal         
+--------------------------------------------------------
+0                                       0          
+1                                       1
+2                                       2
+3                                       3
+4                                       4
+5                                       5
+6                                       6 
+7                                       7
+8                                       8 
+9                                       9
+10                                      10 
+11                                      11
+12                                      12
+13                                      13
+14                                      14
+15                                      15
+16                                      16
+17                                      17
+18                                      18
+19                                      19
+20                                      20
+30                                      21
+40                                      22
+50                                      23
+60                                      24
+70                                      25
+80                                      26
+90                                      27
+100                                     28
+200                                     29
+300                                     30
+400                                     31
+500                                     32
+600                                     33 
+700                                     34 
+800                                     35
+900                                     36
+thousand                                139
+
+--------------------------------------------------------
+
+
+General and Link words or phrases:
+
+and (short version                      39
+and (longer pause)                      40
+can be detected                         43
+checking sensors and collecting data    49
+error                                   70
+for                                     71
+in                                      79
+is not                                  82
+is                                      83
+it is                                   84  
+measuring                               89
+micro                                   91
+milli                                   94
+minus                                   95
+no                                      101
+percent                                 111
+point                                   114
+ready                                   116 
+settings menu                           121 
+talking measurements                    124
+there are                               138
+
+
+--------------------------------------------------------
+
+Warnings:
+
+default changed to                      53
+out of range                            107
+sensors for this mode are not connected 120
+warning approaching maximum             146
+warning                                 147
+
+--------------------------------------------------------
+
+Password:
+
+password is correct                     109
+password is incorrect                   110
+please enter password                   112
+
+--------------------------------------------------------
+
+Battery Level:
+  
+battery level                           41
+
+--------------------------------------------------------
+
+Bluetooth:
+  
+bluetooth connection lost               42
+connected to bluetooth                  50
+
+--------------------------------------------------------
+
+Compass:
+        
+digital compass                         61
+east                                    69
+north                                   102
+south                                   123
+the direction is                        129
+west                                    148
+your bearing is                         149
+
+--------------------------------------------------------
+
+Current:
+
+amps                                    38
+current                                 52
+digital ammeter                         58
+milli amps                              92
+the current is                          128
+
+
+
+--------------------------------------------------------
+Clock:
+
+AM                                      37
+PM                                      113
+o'clock                                 104
+the time is                             136
+the alarm is set                        127
+the alarm is not set                    126
+digital clock                           60
+hours                                   76 
+minute                                  96
+minutes                                 97
+o'clock                                 104
+oh                                      105
+seconds                                 119   
+the alarm is not set                    126
+the alarm is set                        127  
+the time is                             136
+
+--------------------------------------------------------
+
+GPS:
+
+gps fix                                 72
+gps location                            73
+gps                                     74
+ground speed is                         75
+kph (kilometers per hour)               86
+mph (miles per hour)                    99
+no gps fix                              100
+number of satellites is                 103
+satellites in view                      118
+the height is                           130
+your location is                        150
+your position is                        151
+
+--------------------------------------------------------
+Humidity:
+
+digital humidity meter                  62
+humidity                                77
+moisture content is                     98
+the relative humidity is                133                      
+
+--------------------------------------------------------
+
+Light:
+
+digital light meter                     63
+light                                   87
+lux                                     88
+the light level is                      131
+
+--------------------------------------------------------
+
+Pressure:
+    
+digital barometer                       59
+milli bars                              93
+pascalls                                109
+pressure                                115
+the pressure is                         132
+
+--------------------------------------------------------
+
+Resistance:
+
+kilo ohms                               85
+mega ohms                               90
+ohms                                    106
+resistance                              117
+the resistance is                       134
+
+--------------------------------------------------------
+
+Soil Moisture:
+
+digital soil moisture meter             64
+soil moisture                           122
+
+--------------------------------------------------------
+
+Temperature:
+
+changing to degrees celcius             46
+changing to degrees centigrade          47
+changing to degrees fahrenheit          48
+degrees celcius                         54
+degrees centigrade                      55
+degrees fahrenheit                      56
+degrees                                 57
+digital thermometer                     65
+ice warning                             78
+temperature                             125
+the temperature is                      135
+
+--------------------------------------------------------
+
+Timer:
+
+countdown timer                         51
+digital timer                           66
+timer started                           140
+timer stopped at                        141
+timer                                   142
+
+--------------------------------------------------------
+
+Voltage:
+digital voltmeter                       67
+the voltage is                          137
+voltage                                 144
+volts                                   145
+
+--------------------------------------------------------
+
+Ultrasonic:
+
+centimeter                              44
+centimeters                             45
+distance                                68
+inch                                    80
+inches                                  81
+ultrasonic tape measure                 143
+
+
+--------------------------------------------------------
+
+
+
